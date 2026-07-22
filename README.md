@@ -1,2 +1,2 @@
 # Presentations
-Some of presentation slides from university coursework
+Some of the slides presented in university courses
